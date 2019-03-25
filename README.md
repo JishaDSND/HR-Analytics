@@ -1,13 +1,15 @@
 # Human Resource Analytics
 
 
-Why are our best and most experienced employees leaving prematurely?
+## Why are our best and most experienced employees leaving prematurely?
 
-Human Resource Analytics
+Blog link : https://medium.com/@studyammu/why-employees-are-leaving-the-organization-7248b7c638e2
+
+# Human Resource Analytics
 
 (Blog Writeup for Udacity DSND)
 
-Table of Contents:
+## Table of Contents:
 
 1. Data to insights
 
